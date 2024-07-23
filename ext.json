@@ -6,16 +6,13 @@
         "url_png_logo": "http(s) url to pool logo; png format; not animated; max 50kb",
         "location": "London, England",
         "social": {
-            "twitter_handle": "cexplorer_io",
-            "telegram_handle": "cexplorer_io",
             "facebook_handle": "",
             "youtube_handle": "",
             "twitch_handle": "",
             "discord_handle": "",
             "github_handle": "",
             "patreon_handle": "",
-            "linkedin_handle": "",
-            "ada_handle": "$cexplorer"
+            "linkedin_handle": ""
         },
         "company": {
             "name": "Company Name",
